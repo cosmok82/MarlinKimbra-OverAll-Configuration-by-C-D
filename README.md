@@ -15,7 +15,7 @@ In this case, the MagoKimbra has added a feature cannot be revised. For more inf
 <br>
 #### <a href="https://github.com/MagoKimbra/MarlinKimbra/issues/163">Home Issue #163</a>
 <br>
-A brand new feature, into the release 4.2.9, move down of 25.64mm (in our case) the position after homing. This feature is inside the code of new release and it not be easily defeated. So, this means if you have an X axe of 293.30mm, your effective height is of 293.30mm - 25.64mm = 267.66mm.
+A brand new feature, into the release 4.2.9, move down of 25.64mm (in our case) the position after homing. This feature is inside the code of new release and it not be easily defeated. So, this means if you have an Z axe of 293.30mm, your effective height is of 293.30mm - 25.64mm = 267.66mm.
 Inside the 4.2.8 this feature is absent for Kossel Printers.
 <br>
 For info, send a message through our blog <a href="http://creativityslashdesign.com"> C/D </a>.
