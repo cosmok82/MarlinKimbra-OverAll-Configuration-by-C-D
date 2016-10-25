@@ -3,6 +3,13 @@
  * Here you can define all your custom settings and they will overwrite configurations in the main configuration files.
  */
 
+/******************************************
+ * Author: Cosimo Orlando.				  *
+ * Blog: http://creativityslashdesign.com *
+ *										  *
+ * Creative Commons License (NC)		  *
+ ******************************************/
+
 /***********************
  * Configuration_Basic *
  ***********************/
