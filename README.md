@@ -34,7 +34,7 @@ For info, send a message through our blog <a href="http://creativityslashdesign.
 ## Bug list
 #### On MarlinKimbra 3D Printer Firmware 4.2.9.
 - "Boot Screen" misaligned as opposed to previous firmware 4.2.8.
-- "Printing Pause" remains on same position without interrupt the printing (4.2.8 no problem).
+- "Printing Stop" remains on same position without interrupt the printing (4.2.8 no problem) <a href="https://github.com/MagoKimbra/MarlinKimbra/issues/111">"Stop" Issue #111</a>.
 <br>
 <br>
 <br>
