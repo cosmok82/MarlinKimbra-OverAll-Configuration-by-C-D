@@ -120,7 +120,7 @@
 //#define Z_PROBE_REPEATABILITY_TEST              							// C/D edited
 #define AUTOCALIBRATION_PRECISION 0.1             							// C/D edited
 #define AUTO_BED_LEVELING_GRID_POINTS 6           							// C/D edited
-#define DEFAULT_AXIS_STEPS_PER_UNIT {80, 80, 80, 88,24, 150, 150, 150}  	// C/D edited // X,  Y,  Z,  E0...(per extruder)
+#define DEFAULT_AXIS_STEPS_PER_UNIT {80, 80, 80, 88.24, 150, 150, 150}  	// C/D edited // X,  Y,  Z,  E0...(per extruder)
 #define DEFAULT_MAX_FEEDRATE {200, 200, 200, 200, 200, 200, 200} 			// C/D edited
 #define MANUAL_FEEDRATE {50*60, 50*60, 50*60, 60} 							// C/D edited
 #define DEFAULT_MINIMUMFEEDRATE 0.0           								// C/D edited // minimum feedrate
