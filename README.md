@@ -22,4 +22,20 @@ For info, send a message through our blog <a href="http://creativityslashdesign.
 <br>
 <br>
 <br>
+## Installation Instruction:
+- Download the MarlinKimbra Firmware 4.2.8 or 4.2.9.
+- Decompress the firmware in a directory.
+- Overwrite the file "Configuration_Overall.h" with the one downloadable right here.
+- Compile and write the firmware with Arduino IDE.
+- Have fun with your new configurated Delta printer!
+<br>
+ 
+<br>
+## Bug list
+#### On MarlinKimbra 3D Printer Firmware 4.2.9.
+- "Boot Screen" misaligned as opposed to previous firmware 4.2.8.
+- "Printing Pause" remains on same position without interrupt the printing (4.2.8 no problem).
+<br>
+<br>
+<br>
 Creative Commons License (NC)
